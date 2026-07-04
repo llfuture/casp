@@ -1,0 +1,22 @@
+{
+  "description": "Adversarial Set Cover instances for E5 robustness testing",
+  "design": "Construct instances where the unique optimal integer solution uses sets S with LP values x*_S < \u03c4. The LP threshold certificate (\u03c4-based) would incorrectly prune these essential sets, making I_\u03a6 infeasible. CASP's safety net (Algorithm 1 step 7 feasibility re-check) must detect infeasibility and trigger fallback to A(I).",
+  "generation_strategy": "1. Start with a small core of expensive sets that form the unique optimal cover. 2. Add many cheap LP-favored sets that dominate the LP solution. 3. Set \u03c4 such that the core sets are pruned (x*_S < \u03c4). 4. Verify: pruned instance is infeasible \u2192 safety net triggers.",
+  "parameters": {
+    "num_instances": 30,
+    "f": [
+      3,
+      5,
+      10
+    ],
+    "m": [
+      200,
+      500
+    ],
+    "s": [
+      500,
+      1000
+    ]
+  },
+  "status": "scaffold \u2014 concrete generator to be implemented per-parameter-grid"
+}

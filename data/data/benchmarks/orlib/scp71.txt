@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>300 Multiple Choices</title>
+</head><body>
+<h1>Multiple Choices</h1>
+The document name you requested (<code>/~mastjjb/jeb/orlib/files/scp71.txt</code>) could not be found on this server.
+However, we found documents with names similar to the one you requested.<p>Available documents:
+<ul>
+<li><a href="/~mastjjb/jeb/orlib/files/scp41.txt">/~mastjjb/jeb/orlib/files/scp41.txt</a> (mistyped character)
+<li><a href="/~mastjjb/jeb/orlib/files/scp51.txt">/~mastjjb/jeb/orlib/files/scp51.txt</a> (mistyped character)
+<li><a href="/~mastjjb/jeb/orlib/files/scpd1.txt">/~mastjjb/jeb/orlib/files/scpd1.txt</a> (mistyped character)
+<li><a href="/~mastjjb/jeb/orlib/files/scpa1.txt">/~mastjjb/jeb/orlib/files/scpa1.txt</a> (mistyped character)
+<li><a href="/~mastjjb/jeb/orlib/files/scpb1.txt">/~mastjjb/jeb/orlib/files/scpb1.txt</a> (mistyped character)
+<li><a href="/~mastjjb/jeb/orlib/files/scpe1.txt">/~mastjjb/jeb/orlib/files/scpe1.txt</a> (mistyped character)
+<li><a href="/~mastjjb/jeb/orlib/files/scpc1.txt">/~mastjjb/jeb/orlib/files/scpc1.txt</a> (mistyped character)
+<li><a href="/~mastjjb/jeb/orlib/files/scp61.txt">/~mastjjb/jeb/orlib/files/scp61.txt</a> (mistyped character)
+</ul>
+</body></html>

@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "kp_uncorrelated_n50_0.json.gz",
+  "kind": "uncorrelated",
+  "n": 50,
+  "rep": 0,
+  "capacity": 14441
+ },
+ {
+  "file": "kp_uncorrelated_n50_1.json.gz",
+  "kind": "uncorrelated",
+  "n": 50,
+  "rep": 1,
+  "capacity": 12255
+ },
+ {
+  "file": "kp_uncorrelated_n50_2.json.gz",
+  "kind": "uncorrelated",
+  "n": 50,
+  "rep": 2,
+  "capacity": 13777
+ },
+ {
+  "file": "kp_uncorrelated_n50_3.json.gz",
+  "kind": "uncorrelated",
+  "n": 50,
+  "rep": 3,
+  "capacity": 12659
+ },
+ {
+  "file": "kp_uncorrelated_n50_4.json.gz",
+  "kind": "uncorrelated",
+  "n": 50,
+  "rep": 4,
+  "capacity": 11775
+ },
+ {
+  "file": "kp_uncorrelated_n50_5.json.gz",
+  "kind": "uncorrelated",
+  "n": 50,
+  "rep": 5,
+  "capacity": 12682
+ },
+ {
+  "file": "kp_uncorrelated_n100_0.json.gz",
+  "kind": "uncorrelated",
+  "n": 100,
+  "rep": 0,
+  "capacity": 24890
+ },
+ {
+  "file": "kp_uncorrelated_n100_1.json.gz",
+  "kind": "uncorrelated",
+  "n": 100,
+  "rep": 1,
+  "capacity": 24471
+ },
+ {
+  "file": "kp_uncorrelated_n100_2.json.gz",
+  "kind": "uncorrelated",
+  "n": 100,
+  "rep": 2,
+  "capacity": 25210
+ },
+ {
+  "file": "kp_uncorrelated_n100_3.json.gz",
+  "kind": "uncorrelated",
+  "n": 100,
+  "rep": 3,
+  "capacity": 21703
+ },
+ {
+  "file": "kp_uncorrelated_n100_4.json.gz",
+  "kind": "uncorrelated",
+  "n": 100,
+  "rep": 4,
+  "capacity": 25500
+ },
+ {
+  "file": "kp_uncorrelated_n100_5.json.gz",
+  "kind": "uncorrelated",
+  "n": 100,
+  "rep": 5,
+  "capacity": 26041
+ },
+ {
+  "file": "kp_uncorrelated_n200_0.json.gz",
+  "kind": "uncorrelated",
+  "n": 200,
+  "rep": 0,
+  "capacity": 50765
+ },
+ {
+  "file": "kp_uncorrelated_n200_1.json.gz",
+  "kind": "uncorrelated",
+  "n": 200,
+  "rep": 1,
+  "capacity": 49003
+ },
+ {
+  "file": "kp_uncorrelated_n200_2.json.gz",
+  "kind": "uncorrelated",
+  "n": 200,
+  "rep": 2,
+  "capacity": 48972
+ },
+ {
+  "file": "kp_uncorrelated_n200_3.json.gz",
+  "kind": "uncorrelated",
+  "n": 200,
+  "rep": 3,
+  "capacity": 49906
+ },
+ {
+  "file": "kp_uncorrelated_n200_4.json.gz",
+  "kind": "uncorrelated",
+  "n": 200,
+  "rep": 4,
+  "capacity": 54228
+ },
+ {
+  "file": "kp_uncorrelated_n200_5.json.gz",
+  "kind": "uncorrelated",
+  "n": 200,
+  "rep": 5,
+  "capacity": 50009
+ },
+ {
+  "file": "kp_uncorrelated_n500_0.json.gz",
+  "kind": "uncorrelated",
+  "n": 500,
+  "rep": 0,
+  "capacity": 124146
+ },
+ {
+  "file": "kp_uncorrelated_n500_1.json.gz",
+  "kind": "uncorrelated",
+  "n": 500,
+  "rep": 1,
+  "capacity": 126697
+ },
+ {
+  "file": "kp_uncorrelated_n500_2.json.gz",
+  "kind": "uncorrelated",
+  "n": 500,
+  "rep": 2,
+  "capacity": 125082
+ },
+ {
+  "file": "kp_uncorrelated_n500_3.json.gz",
+  "kind": "uncorrelated",
+  "n": 500,
+  "rep": 3,
+  "capacity": 128008
+ },
+ {
+  "file": "kp_uncorrelated_n500_4.json.gz",
+  "kind": "uncorrelated",
+  "n": 500,
+  "rep": 4,
+  "capacity": 123514
+ },
+ {
+  "file": "kp_uncorrelated_n500_5.json.gz",
+  "kind": "uncorrelated",
+  "n": 500,
+  "rep": 5,
+  "capacity": 124134
+ },
+ {
+  "file": "kp_uncorrelated_n1000_0.json.gz",
+  "kind": "uncorrelated",
+  "n": 1000,
+  "rep": 0,
+  "capacity": 251317
+ },
+ {
+  "file": "kp_uncorrelated_n1000_1.json.gz",
+  "kind": "uncorrelated",
+  "n": 1000,
+  "rep": 1,
+  "capacity": 257419
+ },
+ {
+  "file": "kp_uncorrelated_n1000_2.json.gz",
+  "kind": "uncorrelated",
+  "n": 1000,
+  "rep": 2,
+  "capacity": 257541
+ },
+ {
+  "file": "kp_uncorrelated_n1000_3.json.gz",
+  "kind": "uncorrelated",
+  "n": 1000,
+  "rep": 3,
+  "capacity": 256293
+ },
+ {
+  "file": "kp_uncorrelated_n1000_4.json.gz",
+  "kind": "uncorrelated",
+  "n": 1000,
+  "rep": 4,
+  "capacity": 241836
+ },
+ {
+  "file": "kp_uncorrelated_n1000_5.json.gz",
+  "kind": "uncorrelated",
+  "n": 1000,
+  "rep": 5,
+  "capacity": 243015
+ },
+ {
+  "file": "kp_uncorrelated_n2000_0.json.gz",
+  "kind": "uncorrelated",
+  "n": 2000,
+  "rep": 0,
+  "capacity": 506698
+ },
+ {
+  "file": "kp_uncorrelated_n2000_1.json.gz",
+  "kind": "uncorrelated",
+  "n": 2000,
+  "rep": 1,
+  "capacity": 503316
+ },
+ {
+  "file": "kp_uncorrelated_n2000_2.json.gz",
+  "kind": "uncorrelated",
+  "n": 2000,
+  "rep": 2,
+  "capacity": 498502
+ },
+ {
+  "file": "kp_uncorrelated_n2000_3.json.gz",
+  "kind": "uncorrelated",
+  "n": 2000,
+  "rep": 3,
+  "capacity": 501008
+ },
+ {
+  "file": "kp_uncorrelated_n2000_4.json.gz",
+  "kind": "uncorrelated",
+  "n": 2000,
+  "rep": 4,
+  "capacity": 490471
+ },
+ {
+  "file": "kp_uncorrelated_n2000_5.json.gz",
+  "kind": "uncorrelated",
+  "n": 2000,
+  "rep": 5,
+  "capacity": 495823
+ },
+ {
+  "file": "kp_weakly_corr_n50_0.json.gz",
+  "kind": "weakly_corr",
+  "n": 50,
+  "rep": 0,
+  "capacity": 13567
+ },
+ {
+  "file": "kp_weakly_corr_n50_1.json.gz",
+  "kind": "weakly_corr",
+  "n": 50,
+  "rep": 1,
+  "capacity": 12814
+ },
+ {
+  "file": "kp_weakly_corr_n50_2.json.gz",
+  "kind": "weakly_corr",
+  "n": 50,
+  "rep": 2,
+  "capacity": 11226
+ },
+ {
+  "file": "kp_weakly_corr_n50_3.json.gz",
+  "kind": "weakly_corr",
+  "n": 50,
+  "rep": 3,
+  "capacity": 13891
+ },
+ {
+  "file": "kp_weakly_corr_n50_4.json.gz",
+  "kind": "weakly_corr",
+  "n": 50,
+  "rep": 4,
+  "capacity": 12122
+ },
+ {
+  "file": "kp_weakly_corr_n50_5.json.gz",
+  "kind": "weakly_corr",
+  "n": 50,
+  "rep": 5,
+  "capacity": 14133
+ },
+ {
+  "file": "kp_weakly_corr_n100_0.json.gz",
+  "kind": "weakly_corr",
+  "n": 100,
+  "rep": 0,
+  "capacity": 23348
+ },
+ {
+  "file": "kp_weakly_corr_n100_1.json.gz",
+  "kind": "weakly_corr",
+  "n": 100,
+  "rep": 1,
+  "capacity": 23915
+ },
+ {
+  "file": "kp_weakly_corr_n100_2.json.gz",
+  "kind": "weakly_corr",
+  "n": 100,
+  "rep": 2,
+  "capacity": 24606
+ },
+ {
+  "file": "kp_weakly_corr_n100_3.json.gz",
+  "kind": "weakly_corr",
+  "n": 100,
+  "rep": 3,
+  "capacity": 23386
+ },
+ {
+  "file": "kp_weakly_corr_n100_4.json.gz",
+  "kind": "weakly_corr",
+  "n": 100,
+  "rep": 4,
+  "capacity": 23439
+ },
+ {
+  "file": "kp_weakly_corr_n100_5.json.gz",
+  "kind": "weakly_corr",
+  "n": 100,
+  "rep": 5,
+  "capacity": 24674
+ },
+ {
+  "file": "kp_weakly_corr_n200_0.json.gz",
+  "kind": "weakly_corr",
+  "n": 200,
+  "rep": 0,
+  "capacity": 50065
+ },
+ {
+  "file": "kp_weakly_corr_n200_1.json.gz",
+  "kind": "weakly_corr",
+  "n": 200,
+  "rep": 1,
+  "capacity": 49152
+ },
+ {
+  "file": "kp_weakly_corr_n200_2.json.gz",
+  "kind": "weakly_corr",
+  "n": 200,
+  "rep": 2,
+  "capacity": 52082
+ },
+ {
+  "file": "kp_weakly_corr_n200_3.json.gz",
+  "kind": "weakly_corr",
+  "n": 200,
+  "rep": 3,
+  "capacity": 50777
+ },
+ {
+  "file": "kp_weakly_corr_n200_4.json.gz",
+  "kind": "weakly_corr",
+  "n": 200,
+  "rep": 4,
+  "capacity": 47610
+ },
+ {
+  "file": "kp_weakly_corr_n200_5.json.gz",
+  "kind": "weakly_corr",
+  "n": 200,
+  "rep": 5,
+  "capacity": 49393
+ },
+ {
+  "file": "kp_weakly_corr_n500_0.json.gz",
+  "kind": "weakly_corr",
+  "n": 500,
+  "rep": 0,
+  "capacity": 127297
+ },
+ {
+  "file": "kp_weakly_corr_n500_1.json.gz",
+  "kind": "weakly_corr",
+  "n": 500,
+  "rep": 1,
+  "capacity": 130903
+ },
+ {
+  "file": "kp_weakly_corr_n500_2.json.gz",
+  "kind": "weakly_corr",
+  "n": 500,
+  "rep": 2,
+  "capacity": 116793
+ },
+ {
+  "file": "kp_weakly_corr_n500_3.json.gz",
+  "kind": "weakly_corr",
+  "n": 500,
+  "rep": 3,
+  "capacity": 121851
+ },
+ {
+  "file": "kp_weakly_corr_n500_4.json.gz",
+  "kind": "weakly_corr",
+  "n": 500,
+  "rep": 4,
+  "capacity": 125822
+ },
+ {
+  "file": "kp_weakly_corr_n500_5.json.gz",
+  "kind": "weakly_corr",
+  "n": 500,
+  "rep": 5,
+  "capacity": 119455
+ },
+ {
+  "file": "kp_weakly_corr_n1000_0.json.gz",
+  "kind": "weakly_corr",
+  "n": 1000,
+  "rep": 0,
+  "capacity": 260916
+ },
+ {
+  "file": "kp_weakly_corr_n1000_1.json.gz",
+  "kind": "weakly_corr",
+  "n": 1000,
+  "rep": 1,
+  "capacity": 252534
+ },
+ {
+  "file": "kp_weakly_corr_n1000_2.json.gz",
+  "kind": "weakly_corr",
+  "n": 1000,
+  "rep": 2,
+  "capacity": 252274
+ },
+ {
+  "file": "kp_weakly_corr_n1000_3.json.gz",
+  "kind": "weakly_corr",
+  "n": 1000,
+  "rep": 3,
+  "capacity": 256365
+ },
+ {
+  "file": "kp_weakly_corr_n1000_4.json.gz",
+  "kind": "weakly_corr",
+  "n": 1000,
+  "rep": 4,
+  "capacity": 253130
+ },
+ {
+  "file": "kp_weakly_corr_n1000_5.json.gz",
+  "kind": "weakly_corr",
+  "n": 1000,
+  "rep": 5,
+  "capacity": 253732
+ },
+ {
+  "file": "kp_weakly_corr_n2000_0.json.gz",
+  "kind": "weakly_corr",
+  "n": 2000,
+  "rep": 0,
+  "capacity": 499148
+ },
+ {
+  "file": "kp_weakly_corr_n2000_1.json.gz",
+  "kind": "weakly_corr",
+  "n": 2000,
+  "rep": 1,
+  "capacity": 510144
+ },
+ {
+  "file": "kp_weakly_corr_n2000_2.json.gz",
+  "kind": "weakly_corr",
+  "n": 2000,
+  "rep": 2,
+  "capacity": 500401
+ },
+ {
+  "file": "kp_weakly_corr_n2000_3.json.gz",
+  "kind": "weakly_corr",
+  "n": 2000,
+  "rep": 3,
+  "capacity": 502894
+ },
+ {
+  "file": "kp_weakly_corr_n2000_4.json.gz",
+  "kind": "weakly_corr",
+  "n": 2000,
+  "rep": 4,
+  "capacity": 500133
+ },
+ {
+  "file": "kp_weakly_corr_n2000_5.json.gz",
+  "kind": "weakly_corr",
+  "n": 2000,
+  "rep": 5,
+  "capacity": 487991
+ },
+ {
+  "file": "kp_strongly_corr_n50_0.json.gz",
+  "kind": "strongly_corr",
+  "n": 50,
+  "rep": 0,
+  "capacity": 11727
+ },
+ {
+  "file": "kp_strongly_corr_n50_1.json.gz",
+  "kind": "strongly_corr",
+  "n": 50,
+  "rep": 1,
+  "capacity": 11246
+ },
+ {
+  "file": "kp_strongly_corr_n50_2.json.gz",
+  "kind": "strongly_corr",
+  "n": 50,
+  "rep": 2,
+  "capacity": 15304
+ },
+ {
+  "file": "kp_strongly_corr_n50_3.json.gz",
+  "kind": "strongly_corr",
+  "n": 50,
+  "rep": 3,
+  "capacity": 12324
+ },
+ {
+  "file": "kp_strongly_corr_n50_4.json.gz",
+  "kind": "strongly_corr",
+  "n": 50,
+  "rep": 4,
+  "capacity": 10958
+ },
+ {
+  "file": "kp_strongly_corr_n50_5.json.gz",
+  "kind": "strongly_corr",
+  "n": 50,
+  "rep": 5,
+  "capacity": 11229
+ },
+ {
+  "file": "kp_strongly_corr_n100_0.json.gz",
+  "kind": "strongly_corr",
+  "n": 100,
+  "rep": 0,
+  "capacity": 24308
+ },
+ {
+  "file": "kp_strongly_corr_n100_1.json.gz",
+  "kind": "strongly_corr",
+  "n": 100,
+  "rep": 1,
+  "capacity": 28169
+ },
+ {
+  "file": "kp_strongly_corr_n100_2.json.gz",
+  "kind": "strongly_corr",
+  "n": 100,
+  "rep": 2,
+  "capacity": 25264
+ },
+ {
+  "file": "kp_strongly_corr_n100_3.json.gz",
+  "kind": "strongly_corr",
+  "n": 100,
+  "rep": 3,
+  "capacity": 25336
+ },
+ {
+  "file": "kp_strongly_corr_n100_4.json.gz",
+  "kind": "strongly_corr",
+  "n": 100,
+  "rep": 4,
+  "capacity": 25164
+ },
+ {
+  "file": "kp_strongly_corr_n100_5.json.gz",
+  "kind": "strongly_corr",
+  "n": 100,
+  "rep": 5,
+  "capacity": 26569
+ },
+ {
+  "file": "kp_strongly_corr_n200_0.json.gz",
+  "kind": "strongly_corr",
+  "n": 200,
+  "rep": 0,
+  "capacity": 48768
+ },
+ {
+  "file": "kp_strongly_corr_n200_1.json.gz",
+  "kind": "strongly_corr",
+  "n": 200,
+  "rep": 1,
+  "capacity": 46191
+ },
+ {
+  "file": "kp_strongly_corr_n200_2.json.gz",
+  "kind": "strongly_corr",
+  "n": 200,
+  "rep": 2,
+  "capacity": 47592
+ },
+ {
+  "file": "kp_strongly_corr_n200_3.json.gz",
+  "kind": "strongly_corr",
+  "n": 200,
+  "rep": 3,
+  "capacity": 47410
+ },
+ {
+  "file": "kp_strongly_corr_n200_4.json.gz",
+  "kind": "strongly_corr",
+  "n": 200,
+  "rep": 4,
+  "capacity": 52121
+ },
+ {
+  "file": "kp_strongly_corr_n200_5.json.gz",
+  "kind": "strongly_corr",
+  "n": 200,
+  "rep": 5,
+  "capacity": 48922
+ },
+ {
+  "file": "kp_strongly_corr_n500_0.json.gz",
+  "kind": "strongly_corr",
+  "n": 500,
+  "rep": 0,
+  "capacity": 125650
+ },
+ {
+  "file": "kp_strongly_corr_n500_1.json.gz",
+  "kind": "strongly_corr",
+  "n": 500,
+  "rep": 1,
+  "capacity": 129057
+ },
+ {
+  "file": "kp_strongly_corr_n500_2.json.gz",
+  "kind": "strongly_corr",
+  "n": 500,
+  "rep": 2,
+  "capacity": 127170
+ },
+ {
+  "file": "kp_strongly_corr_n500_3.json.gz",
+  "kind": "strongly_corr",
+  "n": 500,
+  "rep": 3,
+  "capacity": 119611
+ },
+ {
+  "file": "kp_strongly_corr_n500_4.json.gz",
+  "kind": "strongly_corr",
+  "n": 500,
+  "rep": 4,
+  "capacity": 129141
+ },
+ {
+  "file": "kp_strongly_corr_n500_5.json.gz",
+  "kind": "strongly_corr",
+  "n": 500,
+  "rep": 5,
+  "capacity": 124669
+ },
+ {
+  "file": "kp_strongly_corr_n1000_0.json.gz",
+  "kind": "strongly_corr",
+  "n": 1000,
+  "rep": 0,
+  "capacity": 244526
+ },
+ {
+  "file": "kp_strongly_corr_n1000_1.json.gz",
+  "kind": "strongly_corr",
+  "n": 1000,
+  "rep": 1,
+  "capacity": 253648
+ },
+ {
+  "file": "kp_strongly_corr_n1000_2.json.gz",
+  "kind": "strongly_corr",
+  "n": 1000,
+  "rep": 2,
+  "capacity": 256942
+ },
+ {
+  "file": "kp_strongly_corr_n1000_3.json.gz",
+  "kind": "strongly_corr",
+  "n": 1000,
+  "rep": 3,
+  "capacity": 257486
+ },
+ {
+  "file": "kp_strongly_corr_n1000_4.json.gz",
+  "kind": "strongly_corr",
+  "n": 1000,
+  "rep": 4,
+  "capacity": 250538
+ },
+ {
+  "file": "kp_strongly_corr_n1000_5.json.gz",
+  "kind": "strongly_corr",
+  "n": 1000,
+  "rep": 5,
+  "capacity": 250090
+ },
+ {
+  "file": "kp_strongly_corr_n2000_0.json.gz",
+  "kind": "strongly_corr",
+  "n": 2000,
+  "rep": 0,
+  "capacity": 508260
+ },
+ {
+  "file": "kp_strongly_corr_n2000_1.json.gz",
+  "kind": "strongly_corr",
+  "n": 2000,
+  "rep": 1,
+  "capacity": 500169
+ },
+ {
+  "file": "kp_strongly_corr_n2000_2.json.gz",
+  "kind": "strongly_corr",
+  "n": 2000,
+  "rep": 2,
+  "capacity": 495828
+ },
+ {
+  "file": "kp_strongly_corr_n2000_3.json.gz",
+  "kind": "strongly_corr",
+  "n": 2000,
+  "rep": 3,
+  "capacity": 508891
+ },
+ {
+  "file": "kp_strongly_corr_n2000_4.json.gz",
+  "kind": "strongly_corr",
+  "n": 2000,
+  "rep": 4,
+  "capacity": 509499
+ },
+ {
+  "file": "kp_strongly_corr_n2000_5.json.gz",
+  "kind": "strongly_corr",
+  "n": 2000,
+  "rep": 5,
+  "capacity": 509973
+ },
+ {
+  "file": "kp_subset_sum_n50_0.json.gz",
+  "kind": "subset_sum",
+  "n": 50,
+  "rep": 0,
+  "capacity": 11551
+ },
+ {
+  "file": "kp_subset_sum_n50_1.json.gz",
+  "kind": "subset_sum",
+  "n": 50,
+  "rep": 1,
+  "capacity": 11242
+ },
+ {
+  "file": "kp_subset_sum_n50_2.json.gz",
+  "kind": "subset_sum",
+  "n": 50,
+  "rep": 2,
+  "capacity": 10969
+ },
+ {
+  "file": "kp_subset_sum_n50_3.json.gz",
+  "kind": "subset_sum",
+  "n": 50,
+  "rep": 3,
+  "capacity": 13405
+ },
+ {
+  "file": "kp_subset_sum_n50_4.json.gz",
+  "kind": "subset_sum",
+  "n": 50,
+  "rep": 4,
+  "capacity": 13940
+ },
+ {
+  "file": "kp_subset_sum_n50_5.json.gz",
+  "kind": "subset_sum",
+  "n": 50,
+  "rep": 5,
+  "capacity": 13229
+ },
+ {
+  "file": "kp_subset_sum_n100_0.json.gz",
+  "kind": "subset_sum",
+  "n": 100,
+  "rep": 0,
+  "capacity": 25507
+ },
+ {
+  "file": "kp_subset_sum_n100_1.json.gz",
+  "kind": "subset_sum",
+  "n": 100,
+  "rep": 1,
+  "capacity": 26763
+ },
+ {
+  "file": "kp_subset_sum_n100_2.json.gz",
+  "kind": "subset_sum",
+  "n": 100,
+  "rep": 2,
+  "capacity": 25368
+ },
+ {
+  "file": "kp_subset_sum_n100_3.json.gz",
+  "kind": "subset_sum",
+  "n": 100,
+  "rep": 3,
+  "capacity": 24129
+ },
+ {
+  "file": "kp_subset_sum_n100_4.json.gz",
+  "kind": "subset_sum",
+  "n": 100,
+  "rep": 4,
+  "capacity": 25826
+ },
+ {
+  "file": "kp_subset_sum_n100_5.json.gz",
+  "kind": "subset_sum",
+  "n": 100,
+  "rep": 5,
+  "capacity": 27770
+ },
+ {
+  "file": "kp_subset_sum_n200_0.json.gz",
+  "kind": "subset_sum",
+  "n": 200,
+  "rep": 0,
+  "capacity": 52092
+ },
+ {
+  "file": "kp_subset_sum_n200_1.json.gz",
+  "kind": "subset_sum",
+  "n": 200,
+  "rep": 1,
+  "capacity": 49686
+ },
+ {
+  "file": "kp_subset_sum_n200_2.json.gz",
+  "kind": "subset_sum",
+  "n": 200,
+  "rep": 2,
+  "capacity": 48078
+ },
+ {
+  "file": "kp_subset_sum_n200_3.json.gz",
+  "kind": "subset_sum",
+  "n": 200,
+  "rep": 3,
+  "capacity": 48395
+ },
+ {
+  "file": "kp_subset_sum_n200_4.json.gz",
+  "kind": "subset_sum",
+  "n": 200,
+  "rep": 4,
+  "capacity": 47228
+ },
+ {
+  "file": "kp_subset_sum_n200_5.json.gz",
+  "kind": "subset_sum",
+  "n": 200,
+  "rep": 5,
+  "capacity": 48595
+ },
+ {
+  "file": "kp_subset_sum_n500_0.json.gz",
+  "kind": "subset_sum",
+  "n": 500,
+  "rep": 0,
+  "capacity": 127763
+ },
+ {
+  "file": "kp_subset_sum_n500_1.json.gz",
+  "kind": "subset_sum",
+  "n": 500,
+  "rep": 1,
+  "capacity": 130438
+ },
+ {
+  "file": "kp_subset_sum_n500_2.json.gz",
+  "kind": "subset_sum",
+  "n": 500,
+  "rep": 2,
+  "capacity": 127378
+ },
+ {
+  "file": "kp_subset_sum_n500_3.json.gz",
+  "kind": "subset_sum",
+  "n": 500,
+  "rep": 3,
+  "capacity": 124803
+ },
+ {
+  "file": "kp_subset_sum_n500_4.json.gz",
+  "kind": "subset_sum",
+  "n": 500,
+  "rep": 4,
+  "capacity": 122040
+ },
+ {
+  "file": "kp_subset_sum_n500_5.json.gz",
+  "kind": "subset_sum",
+  "n": 500,
+  "rep": 5,
+  "capacity": 124175
+ },
+ {
+  "file": "kp_subset_sum_n1000_0.json.gz",
+  "kind": "subset_sum",
+  "n": 1000,
+  "rep": 0,
+  "capacity": 249446
+ },
+ {
+  "file": "kp_subset_sum_n1000_1.json.gz",
+  "kind": "subset_sum",
+  "n": 1000,
+  "rep": 1,
+  "capacity": 254409
+ },
+ {
+  "file": "kp_subset_sum_n1000_2.json.gz",
+  "kind": "subset_sum",
+  "n": 1000,
+  "rep": 2,
+  "capacity": 248855
+ },
+ {
+  "file": "kp_subset_sum_n1000_3.json.gz",
+  "kind": "subset_sum",
+  "n": 1000,
+  "rep": 3,
+  "capacity": 251155
+ },
+ {
+  "file": "kp_subset_sum_n1000_4.json.gz",
+  "kind": "subset_sum",
+  "n": 1000,
+  "rep": 4,
+  "capacity": 251682
+ },
+ {
+  "file": "kp_subset_sum_n1000_5.json.gz",
+  "kind": "subset_sum",
+  "n": 1000,
+  "rep": 5,
+  "capacity": 244157
+ },
+ {
+  "file": "kp_subset_sum_n2000_0.json.gz",
+  "kind": "subset_sum",
+  "n": 2000,
+  "rep": 0,
+  "capacity": 502389
+ },
+ {
+  "file": "kp_subset_sum_n2000_1.json.gz",
+  "kind": "subset_sum",
+  "n": 2000,
+  "rep": 1,
+  "capacity": 492988
+ },
+ {
+  "file": "kp_subset_sum_n2000_2.json.gz",
+  "kind": "subset_sum",
+  "n": 2000,
+  "rep": 2,
+  "capacity": 496728
+ },
+ {
+  "file": "kp_subset_sum_n2000_3.json.gz",
+  "kind": "subset_sum",
+  "n": 2000,
+  "rep": 3,
+  "capacity": 501776
+ },
+ {
+  "file": "kp_subset_sum_n2000_4.json.gz",
+  "kind": "subset_sum",
+  "n": 2000,
+  "rep": 4,
+  "capacity": 497533
+ },
+ {
+  "file": "kp_subset_sum_n2000_5.json.gz",
+  "kind": "subset_sum",
+  "n": 2000,
+  "rep": 5,
+  "capacity": 499912
+ },
+ {
+  "file": "kp_spanner_n50_0.json.gz",
+  "kind": "spanner",
+  "n": 50,
+  "rep": 0,
+  "capacity": 11468
+ },
+ {
+  "file": "kp_spanner_n50_1.json.gz",
+  "kind": "spanner",
+  "n": 50,
+  "rep": 1,
+  "capacity": 20177
+ },
+ {
+  "file": "kp_spanner_n50_2.json.gz",
+  "kind": "spanner",
+  "n": 50,
+  "rep": 2,
+  "capacity": 21084
+ },
+ {
+  "file": "kp_spanner_n50_3.json.gz",
+  "kind": "spanner",
+  "n": 50,
+  "rep": 3,
+  "capacity": 24754
+ },
+ {
+  "file": "kp_spanner_n50_4.json.gz",
+  "kind": "spanner",
+  "n": 50,
+  "rep": 4,
+  "capacity": 16982
+ },
+ {
+  "file": "kp_spanner_n50_5.json.gz",
+  "kind": "spanner",
+  "n": 50,
+  "rep": 5,
+  "capacity": 22886
+ },
+ {
+  "file": "kp_spanner_n100_0.json.gz",
+  "kind": "spanner",
+  "n": 100,
+  "rep": 0,
+  "capacity": 24583
+ },
+ {
+  "file": "kp_spanner_n100_1.json.gz",
+  "kind": "spanner",
+  "n": 100,
+  "rep": 1,
+  "capacity": 33428
+ },
+ {
+  "file": "kp_spanner_n100_2.json.gz",
+  "kind": "spanner",
+  "n": 100,
+  "rep": 2,
+  "capacity": 40389
+ },
+ {
+  "file": "kp_spanner_n100_3.json.gz",
+  "kind": "spanner",
+  "n": 100,
+  "rep": 3,
+  "capacity": 41483
+ },
+ {
+  "file": "kp_spanner_n100_4.json.gz",
+  "kind": "spanner",
+  "n": 100,
+  "rep": 4,
+  "capacity": 38759
+ },
+ {
+  "file": "kp_spanner_n100_5.json.gz",
+  "kind": "spanner",
+  "n": 100,
+  "rep": 5,
+  "capacity": 41751
+ },
+ {
+  "file": "kp_spanner_n200_0.json.gz",
+  "kind": "spanner",
+  "n": 200,
+  "rep": 0,
+  "capacity": 67441
+ },
+ {
+  "file": "kp_spanner_n200_1.json.gz",
+  "kind": "spanner",
+  "n": 200,
+  "rep": 1,
+  "capacity": 102591
+ },
+ {
+  "file": "kp_spanner_n200_2.json.gz",
+  "kind": "spanner",
+  "n": 200,
+  "rep": 2,
+  "capacity": 76588
+ },
+ {
+  "file": "kp_spanner_n200_3.json.gz",
+  "kind": "spanner",
+  "n": 200,
+  "rep": 3,
+  "capacity": 83053
+ },
+ {
+  "file": "kp_spanner_n200_4.json.gz",
+  "kind": "spanner",
+  "n": 200,
+  "rep": 4,
+  "capacity": 82654
+ },
+ {
+  "file": "kp_spanner_n200_5.json.gz",
+  "kind": "spanner",
+  "n": 200,
+  "rep": 5,
+  "capacity": 76758
+ },
+ {
+  "file": "kp_spanner_n500_0.json.gz",
+  "kind": "spanner",
+  "n": 500,
+  "rep": 0,
+  "capacity": 183081
+ },
+ {
+  "file": "kp_spanner_n500_1.json.gz",
+  "kind": "spanner",
+  "n": 500,
+  "rep": 1,
+  "capacity": 177957
+ },
+ {
+  "file": "kp_spanner_n500_2.json.gz",
+  "kind": "spanner",
+  "n": 500,
+  "rep": 2,
+  "capacity": 166508
+ },
+ {
+  "file": "kp_spanner_n500_3.json.gz",
+  "kind": "spanner",
+  "n": 500,
+  "rep": 3,
+  "capacity": 184252
+ },
+ {
+  "file": "kp_spanner_n500_4.json.gz",
+  "kind": "spanner",
+  "n": 500,
+  "rep": 4,
+  "capacity": 215306
+ },
+ {
+  "file": "kp_spanner_n500_5.json.gz",
+  "kind": "spanner",
+  "n": 500,
+  "rep": 5,
+  "capacity": 163318
+ },
+ {
+  "file": "kp_spanner_n1000_0.json.gz",
+  "kind": "spanner",
+  "n": 1000,
+  "rep": 0,
+  "capacity": 484544
+ },
+ {
+  "file": "kp_spanner_n1000_1.json.gz",
+  "kind": "spanner",
+  "n": 1000,
+  "rep": 1,
+  "capacity": 426337
+ },
+ {
+  "file": "kp_spanner_n1000_2.json.gz",
+  "kind": "spanner",
+  "n": 1000,
+  "rep": 2,
+  "capacity": 256536
+ },
+ {
+  "file": "kp_spanner_n1000_3.json.gz",
+  "kind": "spanner",
+  "n": 1000,
+  "rep": 3,
+  "capacity": 500469
+ },
+ {
+  "file": "kp_spanner_n1000_4.json.gz",
+  "kind": "spanner",
+  "n": 1000,
+  "rep": 4,
+  "capacity": 337251
+ },
+ {
+  "file": "kp_spanner_n1000_5.json.gz",
+  "kind": "spanner",
+  "n": 1000,
+  "rep": 5,
+  "capacity": 442494
+ },
+ {
+  "file": "kp_spanner_n2000_0.json.gz",
+  "kind": "spanner",
+  "n": 2000,
+  "rep": 0,
+  "capacity": 907678
+ },
+ {
+  "file": "kp_spanner_n2000_1.json.gz",
+  "kind": "spanner",
+  "n": 2000,
+  "rep": 1,
+  "capacity": 961023
+ },
+ {
+  "file": "kp_spanner_n2000_2.json.gz",
+  "kind": "spanner",
+  "n": 2000,
+  "rep": 2,
+  "capacity": 532951
+ },
+ {
+  "file": "kp_spanner_n2000_3.json.gz",
+  "kind": "spanner",
+  "n": 2000,
+  "rep": 3,
+  "capacity": 709972
+ },
+ {
+  "file": "kp_spanner_n2000_4.json.gz",
+  "kind": "spanner",
+  "n": 2000,
+  "rep": 4,
+  "capacity": 697946
+ },
+ {
+  "file": "kp_spanner_n2000_5.json.gz",
+  "kind": "spanner",
+  "n": 2000,
+  "rep": 5,
+  "capacity": 619426
+ }
+]

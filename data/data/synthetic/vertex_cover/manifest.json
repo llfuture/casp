@@ -1,0 +1,6215 @@
+{
+  "total": 690,
+  "instances": [
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 0,
+      "actual_n": 147,
+      "actual_m": 168,
+      "file": "vc_er_n200_p0.01_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 1,
+      "actual_n": 162,
+      "actual_m": 189,
+      "file": "vc_er_n200_p0.01_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 2,
+      "actual_n": 159,
+      "actual_m": 186,
+      "file": "vc_er_n200_p0.01_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 3,
+      "actual_n": 160,
+      "actual_m": 181,
+      "file": "vc_er_n200_p0.01_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 4,
+      "actual_n": 159,
+      "actual_m": 188,
+      "file": "vc_er_n200_p0.01_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 5,
+      "actual_n": 157,
+      "actual_m": 181,
+      "file": "vc_er_n200_p0.01_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 6,
+      "actual_n": 147,
+      "actual_m": 175,
+      "file": "vc_er_n200_p0.01_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 7,
+      "actual_n": 145,
+      "actual_m": 164,
+      "file": "vc_er_n200_p0.01_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 8,
+      "actual_n": 145,
+      "actual_m": 170,
+      "file": "vc_er_n200_p0.01_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 9,
+      "actual_n": 142,
+      "actual_m": 167,
+      "file": "vc_er_n200_p0.01_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 10,
+      "actual_n": 169,
+      "actual_m": 207,
+      "file": "vc_er_n200_p0.01_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 11,
+      "actual_n": 149,
+      "actual_m": 181,
+      "file": "vc_er_n200_p0.01_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 12,
+      "actual_n": 161,
+      "actual_m": 208,
+      "file": "vc_er_n200_p0.01_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 13,
+      "actual_n": 181,
+      "actual_m": 214,
+      "file": "vc_er_n200_p0.01_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 14,
+      "actual_n": 156,
+      "actual_m": 183,
+      "file": "vc_er_n200_p0.01_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 15,
+      "actual_n": 149,
+      "actual_m": 176,
+      "file": "vc_er_n200_p0.01_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 16,
+      "actual_n": 150,
+      "actual_m": 166,
+      "file": "vc_er_n200_p0.01_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 17,
+      "actual_n": 160,
+      "actual_m": 187,
+      "file": "vc_er_n200_p0.01_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 18,
+      "actual_n": 127,
+      "actual_m": 151,
+      "file": "vc_er_n200_p0.01_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 19,
+      "actual_n": 150,
+      "actual_m": 179,
+      "file": "vc_er_n200_p0.01_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 20,
+      "actual_n": 149,
+      "actual_m": 177,
+      "file": "vc_er_n200_p0.01_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 21,
+      "actual_n": 173,
+      "actual_m": 218,
+      "file": "vc_er_n200_p0.01_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 22,
+      "actual_n": 140,
+      "actual_m": 161,
+      "file": "vc_er_n200_p0.01_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 23,
+      "actual_n": 169,
+      "actual_m": 212,
+      "file": "vc_er_n200_p0.01_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 24,
+      "actual_n": 133,
+      "actual_m": 157,
+      "file": "vc_er_n200_p0.01_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 25,
+      "actual_n": 167,
+      "actual_m": 204,
+      "file": "vc_er_n200_p0.01_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 26,
+      "actual_n": 164,
+      "actual_m": 193,
+      "file": "vc_er_n200_p0.01_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 27,
+      "actual_n": 139,
+      "actual_m": 168,
+      "file": "vc_er_n200_p0.01_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 28,
+      "actual_n": 155,
+      "actual_m": 173,
+      "file": "vc_er_n200_p0.01_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.01,
+      "rep": 29,
+      "actual_n": 152,
+      "actual_m": 178,
+      "file": "vc_er_n200_p0.01_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 0,
+      "actual_n": 200,
+      "actual_m": 966,
+      "file": "vc_er_n200_p0.05_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 1,
+      "actual_n": 200,
+      "actual_m": 1004,
+      "file": "vc_er_n200_p0.05_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 2,
+      "actual_n": 200,
+      "actual_m": 1002,
+      "file": "vc_er_n200_p0.05_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 3,
+      "actual_n": 200,
+      "actual_m": 1003,
+      "file": "vc_er_n200_p0.05_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 4,
+      "actual_n": 200,
+      "actual_m": 1005,
+      "file": "vc_er_n200_p0.05_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 5,
+      "actual_n": 200,
+      "actual_m": 973,
+      "file": "vc_er_n200_p0.05_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 6,
+      "actual_n": 199,
+      "actual_m": 1015,
+      "file": "vc_er_n200_p0.05_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 7,
+      "actual_n": 200,
+      "actual_m": 980,
+      "file": "vc_er_n200_p0.05_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 8,
+      "actual_n": 200,
+      "actual_m": 996,
+      "file": "vc_er_n200_p0.05_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 9,
+      "actual_n": 200,
+      "actual_m": 987,
+      "file": "vc_er_n200_p0.05_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 10,
+      "actual_n": 200,
+      "actual_m": 1027,
+      "file": "vc_er_n200_p0.05_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 11,
+      "actual_n": 200,
+      "actual_m": 1003,
+      "file": "vc_er_n200_p0.05_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 12,
+      "actual_n": 200,
+      "actual_m": 1027,
+      "file": "vc_er_n200_p0.05_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 13,
+      "actual_n": 200,
+      "actual_m": 1002,
+      "file": "vc_er_n200_p0.05_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 14,
+      "actual_n": 200,
+      "actual_m": 996,
+      "file": "vc_er_n200_p0.05_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 15,
+      "actual_n": 200,
+      "actual_m": 998,
+      "file": "vc_er_n200_p0.05_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 16,
+      "actual_n": 200,
+      "actual_m": 982,
+      "file": "vc_er_n200_p0.05_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 17,
+      "actual_n": 200,
+      "actual_m": 1003,
+      "file": "vc_er_n200_p0.05_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 18,
+      "actual_n": 200,
+      "actual_m": 966,
+      "file": "vc_er_n200_p0.05_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 19,
+      "actual_n": 200,
+      "actual_m": 972,
+      "file": "vc_er_n200_p0.05_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 20,
+      "actual_n": 200,
+      "actual_m": 1003,
+      "file": "vc_er_n200_p0.05_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 21,
+      "actual_n": 200,
+      "actual_m": 1031,
+      "file": "vc_er_n200_p0.05_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 22,
+      "actual_n": 200,
+      "actual_m": 974,
+      "file": "vc_er_n200_p0.05_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 23,
+      "actual_n": 200,
+      "actual_m": 953,
+      "file": "vc_er_n200_p0.05_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 24,
+      "actual_n": 200,
+      "actual_m": 959,
+      "file": "vc_er_n200_p0.05_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 25,
+      "actual_n": 200,
+      "actual_m": 985,
+      "file": "vc_er_n200_p0.05_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 26,
+      "actual_n": 200,
+      "actual_m": 1029,
+      "file": "vc_er_n200_p0.05_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 27,
+      "actual_n": 200,
+      "actual_m": 943,
+      "file": "vc_er_n200_p0.05_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 28,
+      "actual_n": 200,
+      "actual_m": 982,
+      "file": "vc_er_n200_p0.05_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.05,
+      "rep": 29,
+      "actual_n": 200,
+      "actual_m": 963,
+      "file": "vc_er_n200_p0.05_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 0,
+      "actual_n": 200,
+      "actual_m": 1929,
+      "file": "vc_er_n200_p0.1_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 1,
+      "actual_n": 200,
+      "actual_m": 1989,
+      "file": "vc_er_n200_p0.1_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 2,
+      "actual_n": 200,
+      "actual_m": 2006,
+      "file": "vc_er_n200_p0.1_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 3,
+      "actual_n": 200,
+      "actual_m": 2001,
+      "file": "vc_er_n200_p0.1_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 4,
+      "actual_n": 200,
+      "actual_m": 2039,
+      "file": "vc_er_n200_p0.1_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 5,
+      "actual_n": 200,
+      "actual_m": 1935,
+      "file": "vc_er_n200_p0.1_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 6,
+      "actual_n": 200,
+      "actual_m": 2003,
+      "file": "vc_er_n200_p0.1_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 7,
+      "actual_n": 200,
+      "actual_m": 1972,
+      "file": "vc_er_n200_p0.1_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 8,
+      "actual_n": 200,
+      "actual_m": 2041,
+      "file": "vc_er_n200_p0.1_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 9,
+      "actual_n": 200,
+      "actual_m": 1997,
+      "file": "vc_er_n200_p0.1_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 10,
+      "actual_n": 200,
+      "actual_m": 2048,
+      "file": "vc_er_n200_p0.1_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 11,
+      "actual_n": 200,
+      "actual_m": 2031,
+      "file": "vc_er_n200_p0.1_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 12,
+      "actual_n": 200,
+      "actual_m": 1972,
+      "file": "vc_er_n200_p0.1_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 13,
+      "actual_n": 200,
+      "actual_m": 2093,
+      "file": "vc_er_n200_p0.1_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 14,
+      "actual_n": 200,
+      "actual_m": 1994,
+      "file": "vc_er_n200_p0.1_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 15,
+      "actual_n": 200,
+      "actual_m": 1987,
+      "file": "vc_er_n200_p0.1_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 16,
+      "actual_n": 200,
+      "actual_m": 1999,
+      "file": "vc_er_n200_p0.1_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 17,
+      "actual_n": 200,
+      "actual_m": 2024,
+      "file": "vc_er_n200_p0.1_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 18,
+      "actual_n": 200,
+      "actual_m": 2036,
+      "file": "vc_er_n200_p0.1_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 19,
+      "actual_n": 200,
+      "actual_m": 1959,
+      "file": "vc_er_n200_p0.1_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 20,
+      "actual_n": 200,
+      "actual_m": 2037,
+      "file": "vc_er_n200_p0.1_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 21,
+      "actual_n": 200,
+      "actual_m": 2066,
+      "file": "vc_er_n200_p0.1_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 22,
+      "actual_n": 200,
+      "actual_m": 1940,
+      "file": "vc_er_n200_p0.1_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 23,
+      "actual_n": 200,
+      "actual_m": 1993,
+      "file": "vc_er_n200_p0.1_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 24,
+      "actual_n": 200,
+      "actual_m": 2056,
+      "file": "vc_er_n200_p0.1_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 25,
+      "actual_n": 200,
+      "actual_m": 1950,
+      "file": "vc_er_n200_p0.1_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 26,
+      "actual_n": 200,
+      "actual_m": 2067,
+      "file": "vc_er_n200_p0.1_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 27,
+      "actual_n": 200,
+      "actual_m": 1997,
+      "file": "vc_er_n200_p0.1_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 28,
+      "actual_n": 200,
+      "actual_m": 2000,
+      "file": "vc_er_n200_p0.1_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.1,
+      "rep": 29,
+      "actual_n": 200,
+      "actual_m": 1974,
+      "file": "vc_er_n200_p0.1_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 0,
+      "actual_n": 200,
+      "actual_m": 5969,
+      "file": "vc_er_n200_p0.3_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 1,
+      "actual_n": 200,
+      "actual_m": 5959,
+      "file": "vc_er_n200_p0.3_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 2,
+      "actual_n": 200,
+      "actual_m": 5948,
+      "file": "vc_er_n200_p0.3_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 3,
+      "actual_n": 200,
+      "actual_m": 5927,
+      "file": "vc_er_n200_p0.3_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 4,
+      "actual_n": 200,
+      "actual_m": 6006,
+      "file": "vc_er_n200_p0.3_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 5,
+      "actual_n": 200,
+      "actual_m": 5920,
+      "file": "vc_er_n200_p0.3_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 6,
+      "actual_n": 200,
+      "actual_m": 6024,
+      "file": "vc_er_n200_p0.3_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 7,
+      "actual_n": 200,
+      "actual_m": 5953,
+      "file": "vc_er_n200_p0.3_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 8,
+      "actual_n": 200,
+      "actual_m": 5895,
+      "file": "vc_er_n200_p0.3_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 9,
+      "actual_n": 200,
+      "actual_m": 6013,
+      "file": "vc_er_n200_p0.3_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 10,
+      "actual_n": 200,
+      "actual_m": 6008,
+      "file": "vc_er_n200_p0.3_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 11,
+      "actual_n": 200,
+      "actual_m": 5992,
+      "file": "vc_er_n200_p0.3_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 12,
+      "actual_n": 200,
+      "actual_m": 5945,
+      "file": "vc_er_n200_p0.3_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 13,
+      "actual_n": 200,
+      "actual_m": 6045,
+      "file": "vc_er_n200_p0.3_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 14,
+      "actual_n": 200,
+      "actual_m": 5946,
+      "file": "vc_er_n200_p0.3_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 15,
+      "actual_n": 200,
+      "actual_m": 6011,
+      "file": "vc_er_n200_p0.3_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 16,
+      "actual_n": 200,
+      "actual_m": 5971,
+      "file": "vc_er_n200_p0.3_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 17,
+      "actual_n": 200,
+      "actual_m": 6124,
+      "file": "vc_er_n200_p0.3_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 18,
+      "actual_n": 200,
+      "actual_m": 6059,
+      "file": "vc_er_n200_p0.3_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 19,
+      "actual_n": 200,
+      "actual_m": 5933,
+      "file": "vc_er_n200_p0.3_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 20,
+      "actual_n": 200,
+      "actual_m": 5974,
+      "file": "vc_er_n200_p0.3_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 21,
+      "actual_n": 200,
+      "actual_m": 6054,
+      "file": "vc_er_n200_p0.3_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 22,
+      "actual_n": 200,
+      "actual_m": 5939,
+      "file": "vc_er_n200_p0.3_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 23,
+      "actual_n": 200,
+      "actual_m": 5924,
+      "file": "vc_er_n200_p0.3_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 24,
+      "actual_n": 200,
+      "actual_m": 6064,
+      "file": "vc_er_n200_p0.3_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 25,
+      "actual_n": 200,
+      "actual_m": 5842,
+      "file": "vc_er_n200_p0.3_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 26,
+      "actual_n": 200,
+      "actual_m": 5953,
+      "file": "vc_er_n200_p0.3_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 27,
+      "actual_n": 200,
+      "actual_m": 5942,
+      "file": "vc_er_n200_p0.3_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 28,
+      "actual_n": 200,
+      "actual_m": 6017,
+      "file": "vc_er_n200_p0.3_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 200,
+      "p": 0.3,
+      "rep": 29,
+      "actual_n": 200,
+      "actual_m": 6024,
+      "file": "vc_er_n200_p0.3_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 0,
+      "actual_n": 497,
+      "actual_m": 1247,
+      "file": "vc_er_n500_p0.01_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 1,
+      "actual_n": 499,
+      "actual_m": 1339,
+      "file": "vc_er_n500_p0.01_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 2,
+      "actual_n": 491,
+      "actual_m": 1207,
+      "file": "vc_er_n500_p0.01_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 3,
+      "actual_n": 498,
+      "actual_m": 1232,
+      "file": "vc_er_n500_p0.01_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 4,
+      "actual_n": 495,
+      "actual_m": 1257,
+      "file": "vc_er_n500_p0.01_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 5,
+      "actual_n": 497,
+      "actual_m": 1249,
+      "file": "vc_er_n500_p0.01_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 6,
+      "actual_n": 499,
+      "actual_m": 1190,
+      "file": "vc_er_n500_p0.01_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 7,
+      "actual_n": 491,
+      "actual_m": 1186,
+      "file": "vc_er_n500_p0.01_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 8,
+      "actual_n": 496,
+      "actual_m": 1223,
+      "file": "vc_er_n500_p0.01_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 9,
+      "actual_n": 498,
+      "actual_m": 1240,
+      "file": "vc_er_n500_p0.01_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 10,
+      "actual_n": 497,
+      "actual_m": 1254,
+      "file": "vc_er_n500_p0.01_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 11,
+      "actual_n": 496,
+      "actual_m": 1243,
+      "file": "vc_er_n500_p0.01_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 12,
+      "actual_n": 496,
+      "actual_m": 1294,
+      "file": "vc_er_n500_p0.01_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 13,
+      "actual_n": 497,
+      "actual_m": 1311,
+      "file": "vc_er_n500_p0.01_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 14,
+      "actual_n": 499,
+      "actual_m": 1272,
+      "file": "vc_er_n500_p0.01_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 15,
+      "actual_n": 495,
+      "actual_m": 1250,
+      "file": "vc_er_n500_p0.01_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 16,
+      "actual_n": 497,
+      "actual_m": 1131,
+      "file": "vc_er_n500_p0.01_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 17,
+      "actual_n": 498,
+      "actual_m": 1206,
+      "file": "vc_er_n500_p0.01_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 18,
+      "actual_n": 494,
+      "actual_m": 1199,
+      "file": "vc_er_n500_p0.01_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 19,
+      "actual_n": 494,
+      "actual_m": 1218,
+      "file": "vc_er_n500_p0.01_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 20,
+      "actual_n": 498,
+      "actual_m": 1199,
+      "file": "vc_er_n500_p0.01_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 21,
+      "actual_n": 499,
+      "actual_m": 1262,
+      "file": "vc_er_n500_p0.01_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 22,
+      "actual_n": 496,
+      "actual_m": 1218,
+      "file": "vc_er_n500_p0.01_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 23,
+      "actual_n": 495,
+      "actual_m": 1260,
+      "file": "vc_er_n500_p0.01_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 24,
+      "actual_n": 495,
+      "actual_m": 1263,
+      "file": "vc_er_n500_p0.01_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 25,
+      "actual_n": 497,
+      "actual_m": 1253,
+      "file": "vc_er_n500_p0.01_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 26,
+      "actual_n": 499,
+      "actual_m": 1326,
+      "file": "vc_er_n500_p0.01_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 27,
+      "actual_n": 496,
+      "actual_m": 1237,
+      "file": "vc_er_n500_p0.01_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 28,
+      "actual_n": 499,
+      "actual_m": 1229,
+      "file": "vc_er_n500_p0.01_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.01,
+      "rep": 29,
+      "actual_n": 499,
+      "actual_m": 1257,
+      "file": "vc_er_n500_p0.01_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 0,
+      "actual_n": 500,
+      "actual_m": 6378,
+      "file": "vc_er_n500_p0.05_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 1,
+      "actual_n": 500,
+      "actual_m": 6309,
+      "file": "vc_er_n500_p0.05_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 2,
+      "actual_n": 500,
+      "actual_m": 6220,
+      "file": "vc_er_n500_p0.05_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 3,
+      "actual_n": 500,
+      "actual_m": 6208,
+      "file": "vc_er_n500_p0.05_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 4,
+      "actual_n": 500,
+      "actual_m": 6316,
+      "file": "vc_er_n500_p0.05_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 5,
+      "actual_n": 500,
+      "actual_m": 6222,
+      "file": "vc_er_n500_p0.05_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 6,
+      "actual_n": 500,
+      "actual_m": 6263,
+      "file": "vc_er_n500_p0.05_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 7,
+      "actual_n": 500,
+      "actual_m": 6257,
+      "file": "vc_er_n500_p0.05_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 8,
+      "actual_n": 500,
+      "actual_m": 6159,
+      "file": "vc_er_n500_p0.05_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 9,
+      "actual_n": 500,
+      "actual_m": 6252,
+      "file": "vc_er_n500_p0.05_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 10,
+      "actual_n": 500,
+      "actual_m": 6243,
+      "file": "vc_er_n500_p0.05_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 11,
+      "actual_n": 500,
+      "actual_m": 6274,
+      "file": "vc_er_n500_p0.05_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 12,
+      "actual_n": 500,
+      "actual_m": 6203,
+      "file": "vc_er_n500_p0.05_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 13,
+      "actual_n": 500,
+      "actual_m": 6257,
+      "file": "vc_er_n500_p0.05_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 14,
+      "actual_n": 500,
+      "actual_m": 6291,
+      "file": "vc_er_n500_p0.05_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 15,
+      "actual_n": 500,
+      "actual_m": 6247,
+      "file": "vc_er_n500_p0.05_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 16,
+      "actual_n": 500,
+      "actual_m": 6134,
+      "file": "vc_er_n500_p0.05_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 17,
+      "actual_n": 500,
+      "actual_m": 6123,
+      "file": "vc_er_n500_p0.05_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 18,
+      "actual_n": 500,
+      "actual_m": 6206,
+      "file": "vc_er_n500_p0.05_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 19,
+      "actual_n": 500,
+      "actual_m": 6210,
+      "file": "vc_er_n500_p0.05_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 20,
+      "actual_n": 500,
+      "actual_m": 6140,
+      "file": "vc_er_n500_p0.05_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 21,
+      "actual_n": 500,
+      "actual_m": 6356,
+      "file": "vc_er_n500_p0.05_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 22,
+      "actual_n": 500,
+      "actual_m": 6359,
+      "file": "vc_er_n500_p0.05_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 23,
+      "actual_n": 500,
+      "actual_m": 6243,
+      "file": "vc_er_n500_p0.05_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 24,
+      "actual_n": 500,
+      "actual_m": 6232,
+      "file": "vc_er_n500_p0.05_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 25,
+      "actual_n": 500,
+      "actual_m": 6216,
+      "file": "vc_er_n500_p0.05_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 26,
+      "actual_n": 500,
+      "actual_m": 6413,
+      "file": "vc_er_n500_p0.05_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 27,
+      "actual_n": 500,
+      "actual_m": 6286,
+      "file": "vc_er_n500_p0.05_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 28,
+      "actual_n": 500,
+      "actual_m": 6213,
+      "file": "vc_er_n500_p0.05_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.05,
+      "rep": 29,
+      "actual_n": 500,
+      "actual_m": 6230,
+      "file": "vc_er_n500_p0.05_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 0,
+      "actual_n": 500,
+      "actual_m": 12531,
+      "file": "vc_er_n500_p0.1_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 1,
+      "actual_n": 500,
+      "actual_m": 12571,
+      "file": "vc_er_n500_p0.1_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 2,
+      "actual_n": 500,
+      "actual_m": 12477,
+      "file": "vc_er_n500_p0.1_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 3,
+      "actual_n": 500,
+      "actual_m": 12433,
+      "file": "vc_er_n500_p0.1_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 4,
+      "actual_n": 500,
+      "actual_m": 12598,
+      "file": "vc_er_n500_p0.1_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 5,
+      "actual_n": 500,
+      "actual_m": 12355,
+      "file": "vc_er_n500_p0.1_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 6,
+      "actual_n": 500,
+      "actual_m": 12490,
+      "file": "vc_er_n500_p0.1_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 7,
+      "actual_n": 500,
+      "actual_m": 12451,
+      "file": "vc_er_n500_p0.1_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 8,
+      "actual_n": 500,
+      "actual_m": 12330,
+      "file": "vc_er_n500_p0.1_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 9,
+      "actual_n": 500,
+      "actual_m": 12540,
+      "file": "vc_er_n500_p0.1_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 10,
+      "actual_n": 500,
+      "actual_m": 12549,
+      "file": "vc_er_n500_p0.1_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 11,
+      "actual_n": 500,
+      "actual_m": 12343,
+      "file": "vc_er_n500_p0.1_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 12,
+      "actual_n": 500,
+      "actual_m": 12355,
+      "file": "vc_er_n500_p0.1_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 13,
+      "actual_n": 500,
+      "actual_m": 12587,
+      "file": "vc_er_n500_p0.1_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 14,
+      "actual_n": 500,
+      "actual_m": 12677,
+      "file": "vc_er_n500_p0.1_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 15,
+      "actual_n": 500,
+      "actual_m": 12421,
+      "file": "vc_er_n500_p0.1_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 16,
+      "actual_n": 500,
+      "actual_m": 12342,
+      "file": "vc_er_n500_p0.1_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 17,
+      "actual_n": 500,
+      "actual_m": 12403,
+      "file": "vc_er_n500_p0.1_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 18,
+      "actual_n": 500,
+      "actual_m": 12483,
+      "file": "vc_er_n500_p0.1_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 19,
+      "actual_n": 500,
+      "actual_m": 12452,
+      "file": "vc_er_n500_p0.1_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 20,
+      "actual_n": 500,
+      "actual_m": 12544,
+      "file": "vc_er_n500_p0.1_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 21,
+      "actual_n": 500,
+      "actual_m": 12574,
+      "file": "vc_er_n500_p0.1_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 22,
+      "actual_n": 500,
+      "actual_m": 12600,
+      "file": "vc_er_n500_p0.1_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 23,
+      "actual_n": 500,
+      "actual_m": 12425,
+      "file": "vc_er_n500_p0.1_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 24,
+      "actual_n": 500,
+      "actual_m": 12585,
+      "file": "vc_er_n500_p0.1_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 25,
+      "actual_n": 500,
+      "actual_m": 12430,
+      "file": "vc_er_n500_p0.1_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 26,
+      "actual_n": 500,
+      "actual_m": 12769,
+      "file": "vc_er_n500_p0.1_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 27,
+      "actual_n": 500,
+      "actual_m": 12517,
+      "file": "vc_er_n500_p0.1_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 28,
+      "actual_n": 500,
+      "actual_m": 12499,
+      "file": "vc_er_n500_p0.1_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.1,
+      "rep": 29,
+      "actual_n": 500,
+      "actual_m": 12464,
+      "file": "vc_er_n500_p0.1_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 0,
+      "actual_n": 500,
+      "actual_m": 37579,
+      "file": "vc_er_n500_p0.3_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 1,
+      "actual_n": 500,
+      "actual_m": 37519,
+      "file": "vc_er_n500_p0.3_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 2,
+      "actual_n": 500,
+      "actual_m": 37343,
+      "file": "vc_er_n500_p0.3_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 3,
+      "actual_n": 500,
+      "actual_m": 37465,
+      "file": "vc_er_n500_p0.3_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 4,
+      "actual_n": 500,
+      "actual_m": 37670,
+      "file": "vc_er_n500_p0.3_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 5,
+      "actual_n": 500,
+      "actual_m": 37311,
+      "file": "vc_er_n500_p0.3_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 6,
+      "actual_n": 500,
+      "actual_m": 37521,
+      "file": "vc_er_n500_p0.3_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 7,
+      "actual_n": 500,
+      "actual_m": 37355,
+      "file": "vc_er_n500_p0.3_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 8,
+      "actual_n": 500,
+      "actual_m": 37180,
+      "file": "vc_er_n500_p0.3_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 9,
+      "actual_n": 500,
+      "actual_m": 37690,
+      "file": "vc_er_n500_p0.3_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 10,
+      "actual_n": 500,
+      "actual_m": 37631,
+      "file": "vc_er_n500_p0.3_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 11,
+      "actual_n": 500,
+      "actual_m": 36929,
+      "file": "vc_er_n500_p0.3_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 12,
+      "actual_n": 500,
+      "actual_m": 37199,
+      "file": "vc_er_n500_p0.3_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 13,
+      "actual_n": 500,
+      "actual_m": 37600,
+      "file": "vc_er_n500_p0.3_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 14,
+      "actual_n": 500,
+      "actual_m": 37595,
+      "file": "vc_er_n500_p0.3_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 15,
+      "actual_n": 500,
+      "actual_m": 37389,
+      "file": "vc_er_n500_p0.3_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 16,
+      "actual_n": 500,
+      "actual_m": 37127,
+      "file": "vc_er_n500_p0.3_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 17,
+      "actual_n": 500,
+      "actual_m": 37590,
+      "file": "vc_er_n500_p0.3_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 18,
+      "actual_n": 500,
+      "actual_m": 37480,
+      "file": "vc_er_n500_p0.3_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 19,
+      "actual_n": 500,
+      "actual_m": 37301,
+      "file": "vc_er_n500_p0.3_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 20,
+      "actual_n": 500,
+      "actual_m": 37580,
+      "file": "vc_er_n500_p0.3_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 21,
+      "actual_n": 500,
+      "actual_m": 37535,
+      "file": "vc_er_n500_p0.3_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 22,
+      "actual_n": 500,
+      "actual_m": 37386,
+      "file": "vc_er_n500_p0.3_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 23,
+      "actual_n": 500,
+      "actual_m": 37441,
+      "file": "vc_er_n500_p0.3_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 24,
+      "actual_n": 500,
+      "actual_m": 37539,
+      "file": "vc_er_n500_p0.3_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 25,
+      "actual_n": 500,
+      "actual_m": 37431,
+      "file": "vc_er_n500_p0.3_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 26,
+      "actual_n": 500,
+      "actual_m": 37579,
+      "file": "vc_er_n500_p0.3_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 27,
+      "actual_n": 500,
+      "actual_m": 37478,
+      "file": "vc_er_n500_p0.3_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 28,
+      "actual_n": 500,
+      "actual_m": 37590,
+      "file": "vc_er_n500_p0.3_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 500,
+      "p": 0.3,
+      "rep": 29,
+      "actual_n": 500,
+      "actual_m": 37435,
+      "file": "vc_er_n500_p0.3_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 0,
+      "actual_n": 1000,
+      "actual_m": 5026,
+      "file": "vc_er_n1000_p0.01_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 1,
+      "actual_n": 999,
+      "actual_m": 5166,
+      "file": "vc_er_n1000_p0.01_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 2,
+      "actual_n": 1000,
+      "actual_m": 4936,
+      "file": "vc_er_n1000_p0.01_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 3,
+      "actual_n": 1000,
+      "actual_m": 4948,
+      "file": "vc_er_n1000_p0.01_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 4,
+      "actual_n": 1000,
+      "actual_m": 5019,
+      "file": "vc_er_n1000_p0.01_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 5,
+      "actual_n": 1000,
+      "actual_m": 4967,
+      "file": "vc_er_n1000_p0.01_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 6,
+      "actual_n": 1000,
+      "actual_m": 4941,
+      "file": "vc_er_n1000_p0.01_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 7,
+      "actual_n": 1000,
+      "actual_m": 4863,
+      "file": "vc_er_n1000_p0.01_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 8,
+      "actual_n": 1000,
+      "actual_m": 4936,
+      "file": "vc_er_n1000_p0.01_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 9,
+      "actual_n": 1000,
+      "actual_m": 5035,
+      "file": "vc_er_n1000_p0.01_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 10,
+      "actual_n": 1000,
+      "actual_m": 4944,
+      "file": "vc_er_n1000_p0.01_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 11,
+      "actual_n": 1000,
+      "actual_m": 5020,
+      "file": "vc_er_n1000_p0.01_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 12,
+      "actual_n": 1000,
+      "actual_m": 5113,
+      "file": "vc_er_n1000_p0.01_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 13,
+      "actual_n": 1000,
+      "actual_m": 5056,
+      "file": "vc_er_n1000_p0.01_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 14,
+      "actual_n": 1000,
+      "actual_m": 5072,
+      "file": "vc_er_n1000_p0.01_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 15,
+      "actual_n": 1000,
+      "actual_m": 5018,
+      "file": "vc_er_n1000_p0.01_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 16,
+      "actual_n": 1000,
+      "actual_m": 4844,
+      "file": "vc_er_n1000_p0.01_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 17,
+      "actual_n": 1000,
+      "actual_m": 4890,
+      "file": "vc_er_n1000_p0.01_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 18,
+      "actual_n": 1000,
+      "actual_m": 4916,
+      "file": "vc_er_n1000_p0.01_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 19,
+      "actual_n": 1000,
+      "actual_m": 5042,
+      "file": "vc_er_n1000_p0.01_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 20,
+      "actual_n": 1000,
+      "actual_m": 4902,
+      "file": "vc_er_n1000_p0.01_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 21,
+      "actual_n": 1000,
+      "actual_m": 4977,
+      "file": "vc_er_n1000_p0.01_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 22,
+      "actual_n": 1000,
+      "actual_m": 4955,
+      "file": "vc_er_n1000_p0.01_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 23,
+      "actual_n": 1000,
+      "actual_m": 5025,
+      "file": "vc_er_n1000_p0.01_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 24,
+      "actual_n": 1000,
+      "actual_m": 5076,
+      "file": "vc_er_n1000_p0.01_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 25,
+      "actual_n": 1000,
+      "actual_m": 5121,
+      "file": "vc_er_n1000_p0.01_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 26,
+      "actual_n": 1000,
+      "actual_m": 4961,
+      "file": "vc_er_n1000_p0.01_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 27,
+      "actual_n": 1000,
+      "actual_m": 4906,
+      "file": "vc_er_n1000_p0.01_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 28,
+      "actual_n": 1000,
+      "actual_m": 4977,
+      "file": "vc_er_n1000_p0.01_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.01,
+      "rep": 29,
+      "actual_n": 1000,
+      "actual_m": 4923,
+      "file": "vc_er_n1000_p0.01_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 0,
+      "actual_n": 1000,
+      "actual_m": 24944,
+      "file": "vc_er_n1000_p0.05_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 1,
+      "actual_n": 1000,
+      "actual_m": 25038,
+      "file": "vc_er_n1000_p0.05_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 2,
+      "actual_n": 1000,
+      "actual_m": 24916,
+      "file": "vc_er_n1000_p0.05_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 3,
+      "actual_n": 1000,
+      "actual_m": 24786,
+      "file": "vc_er_n1000_p0.05_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 4,
+      "actual_n": 1000,
+      "actual_m": 25187,
+      "file": "vc_er_n1000_p0.05_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 5,
+      "actual_n": 1000,
+      "actual_m": 24943,
+      "file": "vc_er_n1000_p0.05_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 6,
+      "actual_n": 1000,
+      "actual_m": 25121,
+      "file": "vc_er_n1000_p0.05_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 7,
+      "actual_n": 1000,
+      "actual_m": 24807,
+      "file": "vc_er_n1000_p0.05_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 8,
+      "actual_n": 1000,
+      "actual_m": 24898,
+      "file": "vc_er_n1000_p0.05_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 9,
+      "actual_n": 1000,
+      "actual_m": 25070,
+      "file": "vc_er_n1000_p0.05_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 10,
+      "actual_n": 1000,
+      "actual_m": 25081,
+      "file": "vc_er_n1000_p0.05_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 11,
+      "actual_n": 1000,
+      "actual_m": 25034,
+      "file": "vc_er_n1000_p0.05_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 12,
+      "actual_n": 1000,
+      "actual_m": 25132,
+      "file": "vc_er_n1000_p0.05_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 13,
+      "actual_n": 1000,
+      "actual_m": 25002,
+      "file": "vc_er_n1000_p0.05_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 14,
+      "actual_n": 1000,
+      "actual_m": 25136,
+      "file": "vc_er_n1000_p0.05_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 15,
+      "actual_n": 1000,
+      "actual_m": 24947,
+      "file": "vc_er_n1000_p0.05_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 16,
+      "actual_n": 1000,
+      "actual_m": 24852,
+      "file": "vc_er_n1000_p0.05_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 17,
+      "actual_n": 1000,
+      "actual_m": 24650,
+      "file": "vc_er_n1000_p0.05_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 18,
+      "actual_n": 1000,
+      "actual_m": 24931,
+      "file": "vc_er_n1000_p0.05_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 19,
+      "actual_n": 1000,
+      "actual_m": 24986,
+      "file": "vc_er_n1000_p0.05_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 20,
+      "actual_n": 1000,
+      "actual_m": 24956,
+      "file": "vc_er_n1000_p0.05_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 21,
+      "actual_n": 1000,
+      "actual_m": 25030,
+      "file": "vc_er_n1000_p0.05_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 22,
+      "actual_n": 1000,
+      "actual_m": 25125,
+      "file": "vc_er_n1000_p0.05_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 23,
+      "actual_n": 1000,
+      "actual_m": 25210,
+      "file": "vc_er_n1000_p0.05_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 24,
+      "actual_n": 1000,
+      "actual_m": 25099,
+      "file": "vc_er_n1000_p0.05_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 25,
+      "actual_n": 1000,
+      "actual_m": 25172,
+      "file": "vc_er_n1000_p0.05_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 26,
+      "actual_n": 1000,
+      "actual_m": 25083,
+      "file": "vc_er_n1000_p0.05_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 27,
+      "actual_n": 1000,
+      "actual_m": 24922,
+      "file": "vc_er_n1000_p0.05_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 28,
+      "actual_n": 1000,
+      "actual_m": 25050,
+      "file": "vc_er_n1000_p0.05_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.05,
+      "rep": 29,
+      "actual_n": 1000,
+      "actual_m": 25032,
+      "file": "vc_er_n1000_p0.05_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 0,
+      "actual_n": 1000,
+      "actual_m": 49811,
+      "file": "vc_er_n1000_p0.1_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 1,
+      "actual_n": 1000,
+      "actual_m": 49845,
+      "file": "vc_er_n1000_p0.1_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 2,
+      "actual_n": 1000,
+      "actual_m": 49884,
+      "file": "vc_er_n1000_p0.1_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 3,
+      "actual_n": 1000,
+      "actual_m": 49751,
+      "file": "vc_er_n1000_p0.1_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 4,
+      "actual_n": 1000,
+      "actual_m": 50214,
+      "file": "vc_er_n1000_p0.1_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 5,
+      "actual_n": 1000,
+      "actual_m": 49934,
+      "file": "vc_er_n1000_p0.1_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 6,
+      "actual_n": 1000,
+      "actual_m": 50102,
+      "file": "vc_er_n1000_p0.1_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 7,
+      "actual_n": 1000,
+      "actual_m": 49734,
+      "file": "vc_er_n1000_p0.1_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 8,
+      "actual_n": 1000,
+      "actual_m": 49716,
+      "file": "vc_er_n1000_p0.1_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 9,
+      "actual_n": 1000,
+      "actual_m": 50098,
+      "file": "vc_er_n1000_p0.1_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 10,
+      "actual_n": 1000,
+      "actual_m": 50323,
+      "file": "vc_er_n1000_p0.1_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 11,
+      "actual_n": 1000,
+      "actual_m": 49841,
+      "file": "vc_er_n1000_p0.1_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 12,
+      "actual_n": 1000,
+      "actual_m": 49975,
+      "file": "vc_er_n1000_p0.1_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 13,
+      "actual_n": 1000,
+      "actual_m": 49972,
+      "file": "vc_er_n1000_p0.1_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 14,
+      "actual_n": 1000,
+      "actual_m": 50106,
+      "file": "vc_er_n1000_p0.1_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 15,
+      "actual_n": 1000,
+      "actual_m": 49814,
+      "file": "vc_er_n1000_p0.1_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 16,
+      "actual_n": 1000,
+      "actual_m": 49657,
+      "file": "vc_er_n1000_p0.1_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 17,
+      "actual_n": 1000,
+      "actual_m": 49984,
+      "file": "vc_er_n1000_p0.1_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 18,
+      "actual_n": 1000,
+      "actual_m": 49898,
+      "file": "vc_er_n1000_p0.1_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 19,
+      "actual_n": 1000,
+      "actual_m": 50121,
+      "file": "vc_er_n1000_p0.1_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 20,
+      "actual_n": 1000,
+      "actual_m": 50220,
+      "file": "vc_er_n1000_p0.1_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 21,
+      "actual_n": 1000,
+      "actual_m": 50105,
+      "file": "vc_er_n1000_p0.1_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 22,
+      "actual_n": 1000,
+      "actual_m": 49932,
+      "file": "vc_er_n1000_p0.1_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 23,
+      "actual_n": 1000,
+      "actual_m": 49927,
+      "file": "vc_er_n1000_p0.1_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 24,
+      "actual_n": 1000,
+      "actual_m": 50211,
+      "file": "vc_er_n1000_p0.1_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 25,
+      "actual_n": 1000,
+      "actual_m": 50020,
+      "file": "vc_er_n1000_p0.1_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 26,
+      "actual_n": 1000,
+      "actual_m": 49860,
+      "file": "vc_er_n1000_p0.1_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 27,
+      "actual_n": 1000,
+      "actual_m": 49801,
+      "file": "vc_er_n1000_p0.1_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 28,
+      "actual_n": 1000,
+      "actual_m": 50072,
+      "file": "vc_er_n1000_p0.1_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.1,
+      "rep": 29,
+      "actual_n": 1000,
+      "actual_m": 49991,
+      "file": "vc_er_n1000_p0.1_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 0,
+      "actual_n": 1000,
+      "actual_m": 150007,
+      "file": "vc_er_n1000_p0.3_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 1,
+      "actual_n": 1000,
+      "actual_m": 149567,
+      "file": "vc_er_n1000_p0.3_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 2,
+      "actual_n": 1000,
+      "actual_m": 149887,
+      "file": "vc_er_n1000_p0.3_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 3,
+      "actual_n": 1000,
+      "actual_m": 149675,
+      "file": "vc_er_n1000_p0.3_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 4,
+      "actual_n": 1000,
+      "actual_m": 150443,
+      "file": "vc_er_n1000_p0.3_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 5,
+      "actual_n": 1000,
+      "actual_m": 149470,
+      "file": "vc_er_n1000_p0.3_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 6,
+      "actual_n": 1000,
+      "actual_m": 150037,
+      "file": "vc_er_n1000_p0.3_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 7,
+      "actual_n": 1000,
+      "actual_m": 149844,
+      "file": "vc_er_n1000_p0.3_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 8,
+      "actual_n": 1000,
+      "actual_m": 149424,
+      "file": "vc_er_n1000_p0.3_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 9,
+      "actual_n": 1000,
+      "actual_m": 150006,
+      "file": "vc_er_n1000_p0.3_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 10,
+      "actual_n": 1000,
+      "actual_m": 150354,
+      "file": "vc_er_n1000_p0.3_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 11,
+      "actual_n": 1000,
+      "actual_m": 149439,
+      "file": "vc_er_n1000_p0.3_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 12,
+      "actual_n": 1000,
+      "actual_m": 149967,
+      "file": "vc_er_n1000_p0.3_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 13,
+      "actual_n": 1000,
+      "actual_m": 149813,
+      "file": "vc_er_n1000_p0.3_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 14,
+      "actual_n": 1000,
+      "actual_m": 150049,
+      "file": "vc_er_n1000_p0.3_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 15,
+      "actual_n": 1000,
+      "actual_m": 149393,
+      "file": "vc_er_n1000_p0.3_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 16,
+      "actual_n": 1000,
+      "actual_m": 149700,
+      "file": "vc_er_n1000_p0.3_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 17,
+      "actual_n": 1000,
+      "actual_m": 149956,
+      "file": "vc_er_n1000_p0.3_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 18,
+      "actual_n": 1000,
+      "actual_m": 149940,
+      "file": "vc_er_n1000_p0.3_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 19,
+      "actual_n": 1000,
+      "actual_m": 149704,
+      "file": "vc_er_n1000_p0.3_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 20,
+      "actual_n": 1000,
+      "actual_m": 150107,
+      "file": "vc_er_n1000_p0.3_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 21,
+      "actual_n": 1000,
+      "actual_m": 150273,
+      "file": "vc_er_n1000_p0.3_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 22,
+      "actual_n": 1000,
+      "actual_m": 149703,
+      "file": "vc_er_n1000_p0.3_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 23,
+      "actual_n": 1000,
+      "actual_m": 149641,
+      "file": "vc_er_n1000_p0.3_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 24,
+      "actual_n": 1000,
+      "actual_m": 150305,
+      "file": "vc_er_n1000_p0.3_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 25,
+      "actual_n": 1000,
+      "actual_m": 149897,
+      "file": "vc_er_n1000_p0.3_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 26,
+      "actual_n": 1000,
+      "actual_m": 149512,
+      "file": "vc_er_n1000_p0.3_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 27,
+      "actual_n": 1000,
+      "actual_m": 149681,
+      "file": "vc_er_n1000_p0.3_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 28,
+      "actual_n": 1000,
+      "actual_m": 149953,
+      "file": "vc_er_n1000_p0.3_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 1000,
+      "p": 0.3,
+      "rep": 29,
+      "actual_n": 1000,
+      "actual_m": 150020,
+      "file": "vc_er_n1000_p0.3_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 0,
+      "actual_n": 2000,
+      "actual_m": 19865,
+      "file": "vc_er_n2000_p0.01_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 1,
+      "actual_n": 2000,
+      "actual_m": 20198,
+      "file": "vc_er_n2000_p0.01_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 2,
+      "actual_n": 2000,
+      "actual_m": 19897,
+      "file": "vc_er_n2000_p0.01_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 3,
+      "actual_n": 2000,
+      "actual_m": 19886,
+      "file": "vc_er_n2000_p0.01_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 4,
+      "actual_n": 2000,
+      "actual_m": 19896,
+      "file": "vc_er_n2000_p0.01_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 5,
+      "actual_n": 2000,
+      "actual_m": 20082,
+      "file": "vc_er_n2000_p0.01_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 6,
+      "actual_n": 2000,
+      "actual_m": 20002,
+      "file": "vc_er_n2000_p0.01_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 7,
+      "actual_n": 2000,
+      "actual_m": 20013,
+      "file": "vc_er_n2000_p0.01_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 8,
+      "actual_n": 2000,
+      "actual_m": 19989,
+      "file": "vc_er_n2000_p0.01_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 9,
+      "actual_n": 2000,
+      "actual_m": 19828,
+      "file": "vc_er_n2000_p0.01_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 10,
+      "actual_n": 2000,
+      "actual_m": 19981,
+      "file": "vc_er_n2000_p0.01_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 11,
+      "actual_n": 2000,
+      "actual_m": 19962,
+      "file": "vc_er_n2000_p0.01_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 12,
+      "actual_n": 2000,
+      "actual_m": 19765,
+      "file": "vc_er_n2000_p0.01_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 13,
+      "actual_n": 2000,
+      "actual_m": 20186,
+      "file": "vc_er_n2000_p0.01_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 14,
+      "actual_n": 2000,
+      "actual_m": 20325,
+      "file": "vc_er_n2000_p0.01_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 15,
+      "actual_n": 2000,
+      "actual_m": 20113,
+      "file": "vc_er_n2000_p0.01_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 16,
+      "actual_n": 2000,
+      "actual_m": 19789,
+      "file": "vc_er_n2000_p0.01_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 17,
+      "actual_n": 2000,
+      "actual_m": 19910,
+      "file": "vc_er_n2000_p0.01_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 18,
+      "actual_n": 2000,
+      "actual_m": 20042,
+      "file": "vc_er_n2000_p0.01_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 19,
+      "actual_n": 2000,
+      "actual_m": 20123,
+      "file": "vc_er_n2000_p0.01_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 20,
+      "actual_n": 2000,
+      "actual_m": 20082,
+      "file": "vc_er_n2000_p0.01_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 21,
+      "actual_n": 2000,
+      "actual_m": 20106,
+      "file": "vc_er_n2000_p0.01_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 22,
+      "actual_n": 2000,
+      "actual_m": 20228,
+      "file": "vc_er_n2000_p0.01_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 23,
+      "actual_n": 2000,
+      "actual_m": 19955,
+      "file": "vc_er_n2000_p0.01_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 24,
+      "actual_n": 2000,
+      "actual_m": 19916,
+      "file": "vc_er_n2000_p0.01_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 25,
+      "actual_n": 2000,
+      "actual_m": 20051,
+      "file": "vc_er_n2000_p0.01_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 26,
+      "actual_n": 2000,
+      "actual_m": 20066,
+      "file": "vc_er_n2000_p0.01_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 27,
+      "actual_n": 2000,
+      "actual_m": 19955,
+      "file": "vc_er_n2000_p0.01_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 28,
+      "actual_n": 2000,
+      "actual_m": 20132,
+      "file": "vc_er_n2000_p0.01_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.01,
+      "rep": 29,
+      "actual_n": 2000,
+      "actual_m": 20190,
+      "file": "vc_er_n2000_p0.01_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 0,
+      "actual_n": 2000,
+      "actual_m": 99704,
+      "file": "vc_er_n2000_p0.05_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 1,
+      "actual_n": 2000,
+      "actual_m": 100141,
+      "file": "vc_er_n2000_p0.05_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 2,
+      "actual_n": 2000,
+      "actual_m": 99919,
+      "file": "vc_er_n2000_p0.05_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 3,
+      "actual_n": 2000,
+      "actual_m": 99783,
+      "file": "vc_er_n2000_p0.05_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 4,
+      "actual_n": 2000,
+      "actual_m": 99764,
+      "file": "vc_er_n2000_p0.05_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 5,
+      "actual_n": 2000,
+      "actual_m": 100272,
+      "file": "vc_er_n2000_p0.05_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 6,
+      "actual_n": 2000,
+      "actual_m": 100248,
+      "file": "vc_er_n2000_p0.05_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 7,
+      "actual_n": 2000,
+      "actual_m": 99908,
+      "file": "vc_er_n2000_p0.05_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 8,
+      "actual_n": 2000,
+      "actual_m": 99655,
+      "file": "vc_er_n2000_p0.05_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 9,
+      "actual_n": 2000,
+      "actual_m": 100057,
+      "file": "vc_er_n2000_p0.05_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 10,
+      "actual_n": 2000,
+      "actual_m": 100277,
+      "file": "vc_er_n2000_p0.05_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 11,
+      "actual_n": 2000,
+      "actual_m": 99901,
+      "file": "vc_er_n2000_p0.05_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 12,
+      "actual_n": 2000,
+      "actual_m": 99671,
+      "file": "vc_er_n2000_p0.05_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 13,
+      "actual_n": 2000,
+      "actual_m": 100090,
+      "file": "vc_er_n2000_p0.05_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 14,
+      "actual_n": 2000,
+      "actual_m": 100288,
+      "file": "vc_er_n2000_p0.05_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 15,
+      "actual_n": 2000,
+      "actual_m": 100160,
+      "file": "vc_er_n2000_p0.05_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 16,
+      "actual_n": 2000,
+      "actual_m": 99587,
+      "file": "vc_er_n2000_p0.05_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 17,
+      "actual_n": 2000,
+      "actual_m": 99820,
+      "file": "vc_er_n2000_p0.05_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 18,
+      "actual_n": 2000,
+      "actual_m": 100106,
+      "file": "vc_er_n2000_p0.05_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 19,
+      "actual_n": 2000,
+      "actual_m": 99730,
+      "file": "vc_er_n2000_p0.05_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 20,
+      "actual_n": 2000,
+      "actual_m": 100096,
+      "file": "vc_er_n2000_p0.05_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 21,
+      "actual_n": 2000,
+      "actual_m": 100437,
+      "file": "vc_er_n2000_p0.05_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 22,
+      "actual_n": 2000,
+      "actual_m": 99856,
+      "file": "vc_er_n2000_p0.05_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 23,
+      "actual_n": 2000,
+      "actual_m": 100200,
+      "file": "vc_er_n2000_p0.05_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 24,
+      "actual_n": 2000,
+      "actual_m": 99770,
+      "file": "vc_er_n2000_p0.05_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 25,
+      "actual_n": 2000,
+      "actual_m": 99942,
+      "file": "vc_er_n2000_p0.05_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 26,
+      "actual_n": 2000,
+      "actual_m": 100067,
+      "file": "vc_er_n2000_p0.05_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 27,
+      "actual_n": 2000,
+      "actual_m": 100046,
+      "file": "vc_er_n2000_p0.05_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 28,
+      "actual_n": 2000,
+      "actual_m": 100008,
+      "file": "vc_er_n2000_p0.05_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.05,
+      "rep": 29,
+      "actual_n": 2000,
+      "actual_m": 100638,
+      "file": "vc_er_n2000_p0.05_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 0,
+      "actual_n": 2000,
+      "actual_m": 199771,
+      "file": "vc_er_n2000_p0.1_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 1,
+      "actual_n": 2000,
+      "actual_m": 199814,
+      "file": "vc_er_n2000_p0.1_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 2,
+      "actual_n": 2000,
+      "actual_m": 199987,
+      "file": "vc_er_n2000_p0.1_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 3,
+      "actual_n": 2000,
+      "actual_m": 199404,
+      "file": "vc_er_n2000_p0.1_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 4,
+      "actual_n": 2000,
+      "actual_m": 199988,
+      "file": "vc_er_n2000_p0.1_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 5,
+      "actual_n": 2000,
+      "actual_m": 200616,
+      "file": "vc_er_n2000_p0.1_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 6,
+      "actual_n": 2000,
+      "actual_m": 200235,
+      "file": "vc_er_n2000_p0.1_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 7,
+      "actual_n": 2000,
+      "actual_m": 199798,
+      "file": "vc_er_n2000_p0.1_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 8,
+      "actual_n": 2000,
+      "actual_m": 199280,
+      "file": "vc_er_n2000_p0.1_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 9,
+      "actual_n": 2000,
+      "actual_m": 200257,
+      "file": "vc_er_n2000_p0.1_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 10,
+      "actual_n": 2000,
+      "actual_m": 200747,
+      "file": "vc_er_n2000_p0.1_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 11,
+      "actual_n": 2000,
+      "actual_m": 199258,
+      "file": "vc_er_n2000_p0.1_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 12,
+      "actual_n": 2000,
+      "actual_m": 199506,
+      "file": "vc_er_n2000_p0.1_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 13,
+      "actual_n": 2000,
+      "actual_m": 199984,
+      "file": "vc_er_n2000_p0.1_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 14,
+      "actual_n": 2000,
+      "actual_m": 200270,
+      "file": "vc_er_n2000_p0.1_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 15,
+      "actual_n": 2000,
+      "actual_m": 199949,
+      "file": "vc_er_n2000_p0.1_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 16,
+      "actual_n": 2000,
+      "actual_m": 199555,
+      "file": "vc_er_n2000_p0.1_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 17,
+      "actual_n": 2000,
+      "actual_m": 200277,
+      "file": "vc_er_n2000_p0.1_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 18,
+      "actual_n": 2000,
+      "actual_m": 200288,
+      "file": "vc_er_n2000_p0.1_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 19,
+      "actual_n": 2000,
+      "actual_m": 200394,
+      "file": "vc_er_n2000_p0.1_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 20,
+      "actual_n": 2000,
+      "actual_m": 199716,
+      "file": "vc_er_n2000_p0.1_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 21,
+      "actual_n": 2000,
+      "actual_m": 200767,
+      "file": "vc_er_n2000_p0.1_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 22,
+      "actual_n": 2000,
+      "actual_m": 198946,
+      "file": "vc_er_n2000_p0.1_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 23,
+      "actual_n": 2000,
+      "actual_m": 200093,
+      "file": "vc_er_n2000_p0.1_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 24,
+      "actual_n": 2000,
+      "actual_m": 199595,
+      "file": "vc_er_n2000_p0.1_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 25,
+      "actual_n": 2000,
+      "actual_m": 199444,
+      "file": "vc_er_n2000_p0.1_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 26,
+      "actual_n": 2000,
+      "actual_m": 200008,
+      "file": "vc_er_n2000_p0.1_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 27,
+      "actual_n": 2000,
+      "actual_m": 200006,
+      "file": "vc_er_n2000_p0.1_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 28,
+      "actual_n": 2000,
+      "actual_m": 199546,
+      "file": "vc_er_n2000_p0.1_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.1,
+      "rep": 29,
+      "actual_n": 2000,
+      "actual_m": 200419,
+      "file": "vc_er_n2000_p0.1_29.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 0,
+      "actual_n": 2000,
+      "actual_m": 600342,
+      "file": "vc_er_n2000_p0.3_0.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 1,
+      "actual_n": 2000,
+      "actual_m": 599898,
+      "file": "vc_er_n2000_p0.3_1.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 2,
+      "actual_n": 2000,
+      "actual_m": 599785,
+      "file": "vc_er_n2000_p0.3_2.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 3,
+      "actual_n": 2000,
+      "actual_m": 599434,
+      "file": "vc_er_n2000_p0.3_3.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 4,
+      "actual_n": 2000,
+      "actual_m": 600660,
+      "file": "vc_er_n2000_p0.3_4.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 5,
+      "actual_n": 2000,
+      "actual_m": 600230,
+      "file": "vc_er_n2000_p0.3_5.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 6,
+      "actual_n": 2000,
+      "actual_m": 600014,
+      "file": "vc_er_n2000_p0.3_6.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 7,
+      "actual_n": 2000,
+      "actual_m": 599600,
+      "file": "vc_er_n2000_p0.3_7.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 8,
+      "actual_n": 2000,
+      "actual_m": 600080,
+      "file": "vc_er_n2000_p0.3_8.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 9,
+      "actual_n": 2000,
+      "actual_m": 599725,
+      "file": "vc_er_n2000_p0.3_9.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 10,
+      "actual_n": 2000,
+      "actual_m": 600796,
+      "file": "vc_er_n2000_p0.3_10.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 11,
+      "actual_n": 2000,
+      "actual_m": 599753,
+      "file": "vc_er_n2000_p0.3_11.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 12,
+      "actual_n": 2000,
+      "actual_m": 599689,
+      "file": "vc_er_n2000_p0.3_12.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 13,
+      "actual_n": 2000,
+      "actual_m": 600392,
+      "file": "vc_er_n2000_p0.3_13.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 14,
+      "actual_n": 2000,
+      "actual_m": 599745,
+      "file": "vc_er_n2000_p0.3_14.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 15,
+      "actual_n": 2000,
+      "actual_m": 598596,
+      "file": "vc_er_n2000_p0.3_15.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 16,
+      "actual_n": 2000,
+      "actual_m": 599936,
+      "file": "vc_er_n2000_p0.3_16.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 17,
+      "actual_n": 2000,
+      "actual_m": 600069,
+      "file": "vc_er_n2000_p0.3_17.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 18,
+      "actual_n": 2000,
+      "actual_m": 599934,
+      "file": "vc_er_n2000_p0.3_18.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 19,
+      "actual_n": 2000,
+      "actual_m": 599755,
+      "file": "vc_er_n2000_p0.3_19.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 20,
+      "actual_n": 2000,
+      "actual_m": 598643,
+      "file": "vc_er_n2000_p0.3_20.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 21,
+      "actual_n": 2000,
+      "actual_m": 599818,
+      "file": "vc_er_n2000_p0.3_21.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 22,
+      "actual_n": 2000,
+      "actual_m": 598883,
+      "file": "vc_er_n2000_p0.3_22.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 23,
+      "actual_n": 2000,
+      "actual_m": 599080,
+      "file": "vc_er_n2000_p0.3_23.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 24,
+      "actual_n": 2000,
+      "actual_m": 599665,
+      "file": "vc_er_n2000_p0.3_24.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 25,
+      "actual_n": 2000,
+      "actual_m": 599769,
+      "file": "vc_er_n2000_p0.3_25.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 26,
+      "actual_n": 2000,
+      "actual_m": 599764,
+      "file": "vc_er_n2000_p0.3_26.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 27,
+      "actual_n": 2000,
+      "actual_m": 599766,
+      "file": "vc_er_n2000_p0.3_27.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 28,
+      "actual_n": 2000,
+      "actual_m": 598997,
+      "file": "vc_er_n2000_p0.3_28.graphml.gz"
+    },
+    {
+      "type": "er",
+      "n": 2000,
+      "p": 0.3,
+      "rep": 29,
+      "actual_n": 2000,
+      "actual_m": 600424,
+      "file": "vc_er_n2000_p0.3_29.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 0,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_0.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 1,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_1.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 2,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_2.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 3,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_3.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 4,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_4.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 5,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_5.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 6,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_6.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 7,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_7.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 8,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_8.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 9,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_9.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 10,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_10.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 11,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_11.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 12,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_12.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 13,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_13.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 14,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_14.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 15,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_15.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 16,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_16.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 17,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_17.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 18,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_18.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 19,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_19.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 20,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_20.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 21,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_21.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 22,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_22.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 23,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_23.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 24,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_24.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 25,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_25.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 26,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_26.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 27,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_27.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 28,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_28.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 200,
+      "m": 2,
+      "rep": 29,
+      "actual_n": 200,
+      "actual_m": 396,
+      "file": "vc_ba_n200_m2_29.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 0,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_0.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 1,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_1.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 2,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_2.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 3,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_3.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 4,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_4.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 5,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_5.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 6,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_6.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 7,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_7.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 8,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_8.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 9,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_9.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 10,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_10.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 11,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_11.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 12,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_12.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 13,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_13.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 14,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_14.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 15,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_15.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 16,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_16.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 17,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_17.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 18,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_18.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 19,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_19.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 20,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_20.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 21,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_21.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 22,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_22.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 23,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_23.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 24,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_24.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 25,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_25.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 26,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_26.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 27,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_27.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 28,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_28.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 2,
+      "rep": 29,
+      "actual_n": 500,
+      "actual_m": 996,
+      "file": "vc_ba_n500_m2_29.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 0,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_0.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 1,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_1.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 2,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_2.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 3,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_3.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 4,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_4.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 5,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_5.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 6,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_6.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 7,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_7.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 8,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_8.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 9,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_9.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 10,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_10.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 11,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_11.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 12,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_12.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 13,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_13.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 14,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_14.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 15,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_15.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 16,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_16.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 17,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_17.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 18,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_18.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 19,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_19.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 20,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_20.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 21,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_21.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 22,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_22.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 23,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_23.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 24,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_24.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 25,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_25.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 26,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_26.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 27,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_27.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 28,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_28.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 500,
+      "m": 5,
+      "rep": 29,
+      "actual_n": 500,
+      "actual_m": 2475,
+      "file": "vc_ba_n500_m5_29.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 0,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_0.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 1,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_1.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 2,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_2.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 3,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_3.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 4,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_4.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 5,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_5.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 6,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_6.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 7,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_7.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 8,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_8.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 9,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_9.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 10,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_10.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 11,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_11.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 12,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_12.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 13,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_13.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 14,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_14.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 15,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_15.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 16,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_16.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 17,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_17.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 18,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_18.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 19,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_19.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 20,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_20.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 21,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_21.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 22,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_22.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 23,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_23.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 24,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_24.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 25,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_25.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 26,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_26.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 27,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_27.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 28,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_28.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 2,
+      "rep": 29,
+      "actual_n": 1000,
+      "actual_m": 1996,
+      "file": "vc_ba_n1000_m2_29.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 0,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_0.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 1,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_1.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 2,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_2.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 3,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_3.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 4,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_4.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 5,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_5.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 6,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_6.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 7,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_7.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 8,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_8.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 9,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_9.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 10,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_10.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 11,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_11.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 12,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_12.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 13,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_13.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 14,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_14.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 15,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_15.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 16,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_16.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 17,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_17.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 18,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_18.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 19,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_19.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 20,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_20.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 21,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_21.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 22,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_22.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 23,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_23.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 24,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_24.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 25,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_25.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 26,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_26.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 27,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_27.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 28,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_28.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 1000,
+      "m": 5,
+      "rep": 29,
+      "actual_n": 1000,
+      "actual_m": 4975,
+      "file": "vc_ba_n1000_m5_29.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 0,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_0.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 1,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_1.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 2,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_2.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 3,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_3.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 4,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_4.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 5,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_5.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 6,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_6.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 7,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_7.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 8,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_8.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 9,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_9.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 10,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_10.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 11,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_11.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 12,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_12.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 13,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_13.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 14,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_14.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 15,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_15.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 16,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_16.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 17,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_17.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 18,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_18.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 19,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_19.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 20,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_20.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 21,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_21.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 22,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_22.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 23,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_23.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 24,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_24.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 25,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_25.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 26,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_26.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 27,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_27.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 28,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_28.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 2,
+      "rep": 29,
+      "actual_n": 2000,
+      "actual_m": 3996,
+      "file": "vc_ba_n2000_m2_29.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 0,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_0.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 1,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_1.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 2,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_2.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 3,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_3.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 4,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_4.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 5,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_5.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 6,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_6.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 7,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_7.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 8,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_8.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 9,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_9.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 10,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_10.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 11,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_11.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 12,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_12.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 13,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_13.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 14,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_14.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 15,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_15.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 16,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_16.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 17,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_17.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 18,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_18.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 19,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_19.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 20,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_20.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 21,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_21.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 22,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_22.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 23,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_23.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 24,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_24.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 25,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_25.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 26,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_26.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 27,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_27.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 28,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_28.graphml.gz"
+    },
+    {
+      "type": "ba",
+      "n": 2000,
+      "m": 5,
+      "rep": 29,
+      "actual_n": 2000,
+      "actual_m": 9975,
+      "file": "vc_ba_n2000_m5_29.graphml.gz"
+    }
+  ]
+}
